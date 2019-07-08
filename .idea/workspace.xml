@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff814064-4107-4a36-8e27-20440aefc4c1" name="Default Changelist" comment="" />
+    <list default="true" id="ff814064-4107-4a36-8e27-20440aefc4c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,7 +15,17 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter2/data_type_map.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="700">
+              <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,6 +48,7 @@
         <option value="$PROJECT_DIR$/chapter2/data_type_string.dart" />
         <option value="$PROJECT_DIR$/chapter2/data_type_boolean.dart" />
         <option value="$PROJECT_DIR$/chapter2/data_type_list.dart" />
+        <option value="$PROJECT_DIR$/chapter2/data_type_map.dart" />
       </list>
     </option>
   </component>
@@ -57,6 +70,11 @@
             <path>
               <item name="Learn-Dart" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learn-Dart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learn-Dart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn-Dart" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -86,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.data_type_list.dart">
+  <component name="RunManager" selected="Dart Command Line App.data_type_map.dart">
     <configuration name="data_type_boolean.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter2/data_type_boolean.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/chapter2" />
@@ -94,6 +112,11 @@
     </configuration>
     <configuration name="data_type_list.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter2/data_type_list.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/chapter2" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_type_map.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/chapter2/data_type_map.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/chapter2" />
       <method v="2" />
     </configuration>
@@ -107,18 +130,13 @@
       <option name="workingDirectory" value="$PROJECT_DIR$/chapter2" />
       <method v="2" />
     </configuration>
-    <configuration name="var_and_const.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/chapter2/var_and_const.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/chapter2" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.data_type_map.dart" />
         <item itemvalue="Dart Command Line App.data_type_list.dart" />
         <item itemvalue="Dart Command Line App.data_type_boolean.dart" />
         <item itemvalue="Dart Command Line App.data_type_string.dart" />
         <item itemvalue="Dart Command Line App.data_type_number.dart" />
-        <item itemvalue="Dart Command Line App.var_and_const.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -132,15 +150,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562509276306</updated>
-      <workItem from="1562509280378" duration="5820000" />
+      <workItem from="1562509280378" duration="6703000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5820000" />
+    <option name="totallyTimeSpent" value="6703000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -223,6 +242,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="859">
           <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/data_type_map.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="35" column="18" lean-forward="true" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
         </state>
       </provider>
     </entry>
