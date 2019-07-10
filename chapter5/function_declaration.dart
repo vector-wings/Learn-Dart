@@ -22,5 +22,7 @@ String getPerson(String name, int age) {
 
 String printPerson(name, age) {
   print("name=$name, age=$age");
+
+  // 若没有返回值，会默认返回 return null
 }
 
