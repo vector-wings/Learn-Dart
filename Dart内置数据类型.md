@@ -8,3 +8,6 @@ Dart 内置数据类型
 - 列表：List
 - 键值对：Map
 - 其他：Runes、Symbols
+
+
+Dart 语法非常的优雅
